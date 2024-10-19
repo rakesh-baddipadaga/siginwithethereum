@@ -38,27 +38,27 @@ The app showcases how to integrate Web3 authentication along with a smooth user 
 - **MetaMask** or any other Ethereum wallet extension
 
 ### 1. Clone the Repository
--git clone https://github.com/rakesh-baddipadaga/siginwithethereum.git
--cd siwe-web-app
+- git clone https://github.com/rakesh-baddipadaga/siginwithethereum.git
+- cd siwe-web-app
 
 ### 2.Install Dependencies
--cd siwe-frontend
--npm install
+- cd siwe-frontend
+- npm install
 
--cd backend
--npm install
+- cd backend
+- npm install
 
 ### 3.Run the backend 
--node sever.js
+- node sever.js
 
 ### 3.Run the frontend
--npm start
+- npm start
 
 
 ### Usage
--Connect Wallet: Click on "Connect Wallet" to connect your MetaMask wallet.
--Sign-In: Once connected, a nonce is generated. Click on "Sign-In" to sign the nonce and authenticate.
--Toggle Theme: Use the toggle switch next to "Sign In With Ethereum" to switch between light and dark modes.
+- Connect Wallet: Click on "Connect Wallet" to connect your MetaMask wallet.
+- Sign-In: Once connected, a nonce is generated. Click on "Sign-In" to sign the nonce and authenticate.
+- Toggle Theme: Use the toggle switch next to "Sign In With Ethereum" to switch between light and dark modes.
 
 ### Note
--Inorder to use the wallet first you need to install the metamask extension and create a wallet 
+- Inorder to use the wallet first you need to install the metamask extension and create a wallet 
