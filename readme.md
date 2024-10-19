@@ -39,8 +39,9 @@ The app showcases how to integrate Web3 authentication along with a smooth user 
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/rakesh-baddipadaga/siginwithethereum.git
 cd siwe-web-app
 
+### 2.Install Dependencies
 
 
